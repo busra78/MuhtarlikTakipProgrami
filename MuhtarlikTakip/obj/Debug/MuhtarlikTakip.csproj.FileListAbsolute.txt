@@ -1,0 +1,17 @@
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MuhtarlikTakip.exe.config
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MuhtarlikTakip.exe
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MuhtarlikTakip.pdb
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.csprojResolveAssemblyReference.cache
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.Form1.resources
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.Properties.Resources.resources
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.csproj.GenerateResource.Cache
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.exe
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.pdb
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.kayitGuncelle.resources
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MySql.Data.dll
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MySql.Data.Entity.EF5.dll
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MySql.Fabric.Plugin.dll
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\bin\Debug\MySql.Web.dll
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.csproj.MuhtarlikTakip.exe.config
+c:\users\emrec\onedrive\belgeler\visual studio 2015\Projects\MuhtarlikTakip\MuhtarlikTakip\obj\Debug\MuhtarlikTakip.Form2.resources
